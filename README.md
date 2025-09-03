@@ -16,7 +16,8 @@ An Instagram-like story feature built with HTML, CSS, and JavaScript. Supports s
 ## Project Structure 📂
 
 ```
-
+├── img
+├── README.md
 ├── index.html   # Layout and structure
 ├── style.css    # Styling and responsiveness
 └── script.js    # Story logic (view, add, delete, progress)
