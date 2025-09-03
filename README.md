@@ -23,7 +23,7 @@ An Instagram-like story feature built with HTML, CSS, and JavaScript. Supports s
 
 ```
 ## Screenshots
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/1be99f7f-9373-4fa8-b919-ae39af742865" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/1be99f7f-9373-4fa8-b919-ae39af742865" />
 
 ## Installation / Usage 🚀
 
